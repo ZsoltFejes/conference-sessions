@@ -31,7 +31,7 @@
         "description": "At last year’s CloudStack Collaboration Conference, US Signal shared why we chose Apache CloudStack as the foundation for our OpenCloud platform and our vision for what it could become. One year later, that vision has translated into tremendous growth, customer adoption, and innovation. In this keynote, US Signal’s COO, John White will reflect on the first year of building and scaling OpenCloud with CloudStack, the game-changing factors that made the difference, and the lessons learned along the way. Looking ahead, he will also share insights into the evolving open-source landscape, why CloudStack is well-positioned to lead in an evolving landscape, and how the broader community can continue to drive the next chapter of Open Cloud.",
         "location": "Main Hall",
         "startTime": "2025-11-20T09:55:00",
-        "endTime": "2025-09-11T10:35:00"
+        "endTime": "2025-11-20T10:35:00"
       },
       {
         "id": "S104",
@@ -170,28 +170,196 @@
         "endTime": "2025-11-20T16:30:00"
       },
       {
-        "id": "T101",
-        "title": "Test Past",
-        "description": "Test Past",
+        "id": "H201",
+        "title": "Morning Coffee",
+        "description": "Morning Coffee",
         "location": "Main Hall",
-        "startTime": "2025-11-17T09:00:00",
-        "endTime": "2025-11-17T09:30:00"
+        "startTime": "2025-11-21T08:30:00",
+        "endTime": "2025-11-21T09:00:00"
       },
       {
-        "id": "T102",
-        "title": "Test Current",
-        "description": "Test Current",
-        "location": "Main Hall",
-        "startTime": "2025-11-17T12:00:00",
-        "endTime": "2025-11-17T13:00:00"
+        "id": "V201",
+        "title": "Building OpenCloud with Apache CloudStack",
+        "description": "Launching a new cloud platform is never just about technology – it’s about solving real customer challenges. In this session, US Signal’s VP of Product Development will share the journey of building OpenCloud, a high-performance, enterprise-ready platform powered by Apache CloudStack. Attendees will hear the lessons learned from design to launch, how customer feedback shaped key features, and the tangible business outcomes customers are experiencing today. The session will also provide a forward-looking view into the next wave of innovations, designed to give enterprises and service providers more flexibility, resiliency, and choice in an evolving landscape. Learning Objectives By the end of this session, participants will be able to: 1. Learn from real-world experience – Understand the challenges and best practices US Signal faced in launching OpenCloud on Apache CloudStack, like customer migrations, data protection, product documentation, and more. 2. See customer value in action – Explore how OpenCloud is helping enterprises and MSPs solve issues like cost certainty, scalability, and application performance. 3. Gain a preview of what’s next – Get insight into the roadmap and how upcoming features will continue to address evolving customer needs, such the need for virtual desktops, on-premise deployments, high performance processing for LLMS and SLMs, and more.",
+        "location": "Venere",
+        "startTime": "2025-11-21T09:00:00",
+        "endTime": "2025-11-21T09:30:00"
       },
       {
-        "id": "T103",
-        "title": "Test Upcoming",
-        "description": "Test Upcoming",
+        "id": "V202",
+        "title": "2,800 VMs in 5 servers: Hyperconverged Cloud with CloudStack and StorPool",
+        "description": "Traditional cloud infrastructures are complex, requiring a diverse array of components including multiple controller servers, dedicated compute hosts, dedicated storage arrays, and a complex array of network hardware. This presentation introduces a new perspective to cloud architecture. We will show how to build a fully functional, professional-grade cloud with everything you need using a highly simplified design: a minimal footprint of just 3 or 5 servers and two Ethernet switches. This optimized architecture consolidates all essential functions—a highly-available CloudStack control plane, distributed software-defined primary storage, and resilient secondary storage—onto a single, streamlined set of servers. We will explore how specific features of StorPool Storage enable this consolidation, eliminating the need for numerous specialized components and simplifying both deployment and ongoing operations. Attendees will leave with a clear understanding of how to build a cloud that is not only powerful and reliable but also dramatically easier to manage than traditional designs.",
+        "location": "Venere",
+        "startTime": "2025-11-21T09:30:00",
+        "endTime": "2025-11-21T10:00:00"
+      },
+      {
+        "id": "V203",
+        "title": "Building India’s Sovereign Hyperscale Cloud with the CloudStack Ecosystem",
+        "description": "Building India’s Sovereign Hyperscale Cloud with the CloudStack Ecosystem",
+        "location": "Venere",
+        "startTime": "2025-11-21T10:00:00",
+        "endTime": "2025-11-21T10:30:00"
+      },
+      {
+        "id": "V204",
+        "title": "CloudStack Exploration at Cyso: Lessons Learned and Pitfalls Encountered",
+        "description": "As an EU public cloud provider, Cyso sought an alternative to OpenStack. CloudStack’s capabilities appear to offer a better fit, while integration with existing suppliers has presented some intriguing challenges. Paul Bankert, CEO of Cyso Cloud, will discuss the strategic decisions, development roadmap, and ultimate objectives of this transition.",
+        "location": "Venere",
+        "startTime": "2025-11-21T10:50:00",
+        "endTime": "2025-11-21T11:20:00"
+      },
+      {
+        "id": "V205",
+        "title": "Building Complex Scalable Networks in CloudStack. The Power of IPv6+BGP",
+        "description": "With the addition of dynamic routing to CloudStack many opportunities open up for end-users to create richer and more complex network topologies with IPv6. In this talk we’ll see how end users can now create their own publicly routable networks with no operator intervention.",
+        "location": "Venere",
+        "startTime": "2025-11-21T11:30:00",
+        "endTime": "2025-11-21T12:00:00"
+      },
+      {
+        "id": "V206",
+        "title": "AI Meets CloudStack: Simplifying Cloud Operations with StackAI",
+        "description": "CloudStack is powerful, but for many users, managing cloud operations can be complex. Built by Stack Console — the white-label cloud management platform for self-provisioning and billing — StackAI acts as an intelligent support agent designed to simplify and humanize the CloudStack experience. Imagine simply typing: “Create three VMs with Ubuntu 24.04 inside a VPC, assign a public IP to one VM, and private IPs to the other two, each with 4GB RAM, 2 cores, and 50GB disk.” — and StackAI takes care of the entire process. By turning natural language into precise actions, StackAI empowers users to work faster, learn as they go, and reduces their reliance on technical support. For cloud providers, StackAI lowers support overhead, accelerates customer onboarding, and delivers a more intuitive self-service experience that boosts satisfaction. With agentic AI evolving rapidly, StackAI is shaping how CloudStack can be experienced in a more accessible, intelligent, and user-friendly way.",
+        "location": "Venere",
+        "startTime": "2025-11-21T12:10:00",
+        "endTime": "2025-11-21T12:40:00"
+      },
+      {
+        "id": "V207",
+        "title": "Orchestrating GPU workloads with CloudStack",
+        "description": "This talk dives into the technical design and implementation of native GPU orchestration in Apache CloudStack 4.21 on KVM, including device discovery, capability classification, and inventory synchronization via the KVM agent. Attendees will see how GPU‑backed service offerings are defined and consumed by Instances. We will cover operator prerequisites and host setup (IOMMU, vendor vGPU profiles), and lifecycle operations from provisioning to teardown. A live demo walks through GPU discovery on host, offering creation, and end‑to‑end deployment.",
+        "location": "Venere",
+        "startTime": "2025-11-21T13:40:00",
+        "endTime": "2025-11-21T14:10:00"
+      },
+      {
+        "id": "V208",
+        "title": "Migrating Kubernetes Workloads from Azure to a CloudStack based Cloud",
+        "description": "In this session, we’ll walk through a real-world migration of production-grade Kubernetes workloads from Microsoft Azure to an Apache CloudStack-based cloud infrastructure. You’ll learn why the migration was necessary, how it was planned and executed, and the key challenges we encountered along the way — from networking and storage differences to workload portability and automation. We’ll cover the tools and strategies used to ensure minimal downtime and high service availability, as well as lessons learned that can help guide similar cloud repatriation or cost-optimization efforts. Whether you’re considering a hybrid cloud approach or looking to regain control over your Kubernetes infrastructure, this talk will provide practical insights backed by hands-on experience.",
+        "location": "Venere",
+        "startTime": "2025-11-21T14:20:00",
+        "endTime": "2025-11-21T14:50:00"
+      },
+      {
+        "id": "V209",
+        "title": "Escaping the Commodity Trap: From Cloud Provider to Indispensable Partner",
+        "description": "In a market where Cloud offerings are increasingly commoditized, providers running on powerful platforms like Apache CloudStack have a unique opportunity to differentiate beyond price. The path to durable growth lies in leveraging CloudStack’s flexibility to elevate your role from a simple provider to a strategic partner. This session details how to achieve this transformation through deliberate innovation in your service delivery and customer support models.",
+        "location": "Venere",
+        "startTime": "2025-11-21T15:40:00",
+        "endTime": "2025-11-21T16:10:00"
+      },
+      {
+        "id": "V210",
+        "title": "Panel Discussion and Closing: Building Sustainable IT with Open-source and Next Decade of CloudStack",
+        "description": "Panel Discussion and Closing: Building Sustainable IT with Open-source and Next Decade of CloudStack",
+        "location": "Venere",
+        "startTime": "2025-11-21T16:20:00",
+        "endTime": "2025-11-21T17:00:00"
+      },
+      {
+        "id": "M201",
+        "title": "VMware to KVM Migration Tooling in CloudStack",
+        "description": "This talk will show the current state of the VMware to KVM migration tool, focusing on the improvements since the initial version and what’s next.",
+        "location": "Mercurio",
+        "startTime": "2025-11-21T09:00:00",
+        "endTime": "2025-11-21T09:30:00"
+      },
+      {
+        "id": "M202",
+        "title": "How Scalable is CloudStack?",
+        "description": "CloudStack has always known to be scalable, but just how scalable? In this talk, Boris will discuss the known and anticipated CloudStack scalability limits. He will discuss design decisions that should be made to accommodate growth and will use examples of organisations running CloudStack at massive scale.",
+        "location": "Mercurio",
+        "startTime": "2025-11-21T09:30:00",
+        "endTime": "2025-11-21T10:00:00"
+      },
+      {
+        "id": "M203",
+        "title": "CloudStack on LinuxONE",
+        "description": "IBM LinuxONE is a family of enterprise-grade Linux® servers, powered by the IBM® Telum® processor, that brings together the IBM expertise in building mission-critical systems with the openness of the Linux operating system. Combining these capabilities with the management and integration capabilities of CloudStack sounds exiting. And that’s what we have done. Now what does this mean, what have we done and what kind of benefits you can get from this combination is something you will hear in this session.",
+        "location": "Mercurio",
+        "startTime": "2025-11-21T10:10:00",
+        "endTime": "2025-11-21T10:40:00"
+      },
+      {
+        "id": "M204",
+        "title": "Get Apache CloudStack Certified",
+        "description": "Apache CloudStack Certification by ShapeBlue is the trusted certification for mastering Apache CloudStack – developed by ShapeBlue. The certification validates the knowledge for anybody working with Apache CloudStack. Covering both foundational and advanced topics, the certification demonstrates a professional’s ability to operate CloudStack effectively and it serves as proof that certified individuals possess the essential expertise to run and maintain Apache CloudStack deployments. During the CloudStack Collaboration Conference, you will have a chance to get certified and prove your CloudStack skills!",
+        "location": "Mercurio",
+        "startTime": "2025-11-21T10:50:00",
+        "endTime": "2025-11-21T11:20:00"
+      },
+      {
+        "id": "M205",
+        "title": "Get Apache CloudStack Certified",
+        "description": "Apache CloudStack Certification by ShapeBlue is the trusted certification for mastering Apache CloudStack – developed by ShapeBlue. The certification validates the knowledge for anybody working with Apache CloudStack. Covering both foundational and advanced topics, the certification demonstrates a professional’s ability to operate CloudStack effectively and it serves as proof that certified individuals possess the essential expertise to run and maintain Apache CloudStack deployments. During the CloudStack Collaboration Conference, you will have a chance to get certified and prove your CloudStack skills!",
+        "location": "Mercurio",
+        "startTime": "2025-11-21T11:20:00",
+        "endTime": "2025-11-21T12:00:00"
+      },
+      {
+        "id": "M206",
+        "title": "Get Apache CloudStack Certified",
+        "description": "Apache CloudStack Certification by ShapeBlue is the trusted certification for mastering Apache CloudStack – developed by ShapeBlue. The certification validates the knowledge for anybody working with Apache CloudStack. Covering both foundational and advanced topics, the certification demonstrates a professional’s ability to operate CloudStack effectively and it serves as proof that certified individuals possess the essential expertise to run and maintain Apache CloudStack deployments. During the CloudStack Collaboration Conference, you will have a chance to get certified and prove your CloudStack skills!",
+        "location": "Mercurio",
+        "startTime": "2025-11-21T12:00:00",
+        "endTime": "2025-11-21T12:50:00"
+      },
+      {
+        "id": "M207",
+        "title": "Image-Based Backups with CloudStack APIs",
+        "description": "US Signal customers have long relied on hypervisor-integrated, image-based backups delivered through leading enterprise data protection platforms. But as more workloads move into OpenCloud, customers asked for the same level of backup and recovery functionality, delivered natively within CloudStack. In response, US Signal partnered with CommVault to integrate image-based backup directly with CloudStack APIs. In this joint session, US Signal and CommVault will explain why this problem needed to be solved, how the integration is being built, and what the solution will look like for customers. Attendees will get a clear view into the technical architecture, API-level integration, and design considerations that make enterprise-grade data protection possible in a CloudStack-powered cloud. By the end of this session, participants will understand: • The “why”: Customer drivers behind bringing image-based backups natively into OpenCloud. • The “how”: Technical architecture and API-level integration between CloudStack and CommVault. • The “what’s next”: How this joint solution will deliver enterprise-grade protection for CloudStack workloads.",
+        "location": "Mercurio",
+        "startTime": "2025-11-21T13:40:00",
+        "endTime": "2025-11-21T14:10:00"
+      },
+      {
+        "id": "M208",
+        "title": "Enhancements on the CloudStack Kubernetes Service",
+        "description": "This talk will go through the latest enhancements on CloudStack Kubernetes Service (CKS) since 4.21 including: – Registering templates to be used for CKS nodes – Template and service offering selection per CKS node type – Possibility to separate the etcd service to dedicated CKS nodes – Add external nodes to an existing CKS cluster – CNI configuration integration with CKS cluster deployment – CSI integration",
+        "location": "Mercurio",
+        "startTime": "2025-11-21T14:20:00",
+        "endTime": "2025-11-21T14:50:00"
+      },
+      {
+        "id": "M209",
+        "title": "Cloudstack-related Infrastructure Monitoring using Grafana Stack",
+        "description": "Monitoring is critical for running a reliable and performant cloud environment. Apache CloudStack provides rich APIs and metrics, but turning this data into actionable insights requires a modern observability stack. In this session, we will demonstrate how to build a complete monitoring solution for CloudStack using Prometheus, Alertmanager, and Grafana – the Grafana stack. We’ll walk through the architecture for collecting and visualizing CloudStack metrics, including: - Configuring Prometheus to scrape CloudStack metrics (via API or exporters). - Tracking VM, host, storage, and network utilization. - Building intuitive Grafana dashboards for operators and tenants. - Setting up automated alerts for capacity thresholds and failures. - Attendees will also gain insights into key advantages of this approach: - Unified Visibility: Single-pane-of-glass view for CloudStack management servers, hypervisors, and system VMs. - Proactive Operations: Early detection of capacity bottlenecks, API latency, and infrastructure anomalies. - Scalability: Easily extend monitoring as CloudStack regions/zones grow. - Automation-Friendly: Integrate alerts with ticketing systems or autoscaling workflows. - Open & Flexible: Fully open-source, customizable dashboards with support for long-term metric retention.",
+        "location": "Mercurio",
+        "startTime": "2025-11-21T15:00:00",
+        "endTime": "2025-11-21T15:30:00"
+      },
+      {
+        "id": "M210",
+        "title": "Issues, Pull Requests, Mailing Lists, Oh My: Gaining Clarity in an Open Source Support Model",
+        "description": "As many organizations look to take control of their infrastructure by moving from closed source platforms to open source, the transition to getting support and contributing to projects is not always abundantly clear. Learn from US Signal’s experience moving from traditional enterprise platforms to open source. The presentation aims to provide a translation guide to help shift the mindset for engineers and leaders alike who are dipping their feet into Apache CloudStack.As many organizations look to take control of their infrastructure by moving from closed source platforms to open source, the transition to getting support and contributing to projects is not always abundantly clear. Learn from US Signal’s experience moving from traditional enterprise platforms to open source. The presentation aims to provide a translation guide to help shift the mindset for engineers and leaders alike who are dipping their feet into Apache CloudStack.",
+        "location": "Mercurio",
+        "startTime": "2025-11-21T15:40:00",
+        "endTime": "2025-11-21T16:10:00"
+      },
+      {
+        "id": "N201",
+        "title": "DEMO: Revolutionising CloudStack Networking with Netris Integration",
+        "description": "TLDR; Automating networks and routing in CloudStack with Netris. Transform your cloud infrastructure management. Join Cyso Cloud for an insightful technical presentation exploring how the powerful combination of Netris and CloudStack is helping us automate key parts of our network setup. This session will reveal how Netris integration solves real-world networking challenges that traditional CloudStack deployments face.What you’ll learn: What we have used, why we’re using Netris and what we’re looking to get out of it. How Netris simplifies our network management, see how Netris consolidates network infrastructure into a single management point, eliminating the complexity of managing multiple networking tools and interfaces. A live demonstration of a CloudStack zone with Netris automated networking. A look to the future and the key issues we hope it tackles. Who should attend: Infrastructure architects, network engineers, CloudStack administrators, and DevOps teams evaluating modern cloud platform alternatives. Perfect for organizations seeking to enhance their CloudStack environments or those considering migration from traditional virtualization platforms.",
+        "location": "Nettuno",
+        "startTime": "2025-11-21T09:00:00",
+        "endTime": "2025-11-21T10:30:00"
+      },
+      {
+        "id": "N202",
+        "title": "WORKSHOP: Setup Linstor SDS and CloudStack",
+        "description": "A guided step by step guide on how to setup Linstor SDS and CloudStack in a HA setup. We will start from freshly installed virtual machines and show you how to install Linstor within a HA setup and afterwards configure CloudStack with it. Afterwards we will run some live migration and failover tests.",
+        "location": "Nettuno",
+        "startTime": "2025-11-21T10:30:00",
+        "endTime": "2025-11-21T11:30:00"
+      },
+      {
+        "id": "H202",
+        "title": "Lunch Break",
+        "description": "Lunch Break",
         "location": "Main Hall",
-        "startTime": "2025-11-17T13:00:00",
-        "endTime": "2025-11-17T13:30:00"
+        "startTime": "2025-11-21T12:40:00",
+        "endTime": "2025-11-21T13:40:00"
       }
     ]
   }
