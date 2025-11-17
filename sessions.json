@@ -1,4 +1,5 @@
 {
+    "title": "CloudStack Collaboration Conference 2025 Sessions",
     "sessions": [
       {
         "id": "H101",
@@ -39,6 +40,134 @@
         "location": "Main Hall",
         "startTime": "2025-11-20T10:50:00",
         "endTime": "2025-11-20T11:30:00"
+      },
+      {
+        "id": "S105",
+        "title": "Keynote: State of the Union",
+        "description": "The Apache CloudStack project has had another exciting year – with growth in adoption, functionality and community size. In the project’s annual State of The Union talk, the current VP of the project, Nicolas Vazquez, reflects on the last year of the project’s collaboration, developments in CloudStack and community activity. He sets out how he sees the project developing over the next few years.",
+        "location": "Main Hall",
+        "startTime": "2025-11-20T11:40:00",
+        "endTime": "2025-11-20T12:25:00"
+      },
+      {
+        "id": "V101",
+        "title": "Building a sovereign, multi-zone Cloud with CloudStack",
+        "description": "CDLAN adopted CloudStack to build a truly sovereign cloud, distributed across its data centers in Milan and Rome, with a multi-zone architecture and multi-hypervisor support (KVM and VMware). Thanks to a pay-per-use model, our customers and partners can access scalable resources with no upfront costs, while benefiting from hybrid integration and simplified management. In our talk we will share how this resilient infrastructure has enabled CDLAN and our partners to accelerate the adoption of cloud services in the Italian Market.",
+        "location": "Venere",
+        "startTime": "2025-11-20T13:30:00",
+        "endTime": "2025-11-20T14:00:00"
+      },
+      {
+        "id": "V102",
+        "title": "Infrastructure Strategies and Innovation in the AI Era",
+        "description": "The rapid rise of AI, large language models, and inference workloads are driving unprecedented demand for compute resources. CloudStack operators and service providers need to leverage practical solutions and architectures to deliver services and performance to the user base.\n\nIn this session, US Signal will explore how infrastructure is evolving to meet these demands, with a focus on real-world performance metrics comparing CPU-only vs GPU-accelerated workloads and x86 vs Arm64 platforms. We’ll also examine the critical role of open-source hypervisors, GPU virtualization, time slicing, and containerized workloads on high-core hosts in maximizing utilization, improving efficiency, and reducing stranded resources.\n\nAttendees will gain insight into how these innovations converge into hybrid infrastructure models that balance performance, cost, and sustainability.\n\nBy the end of this session, participants will be able to:\n1. Evaluate the impact of AI/LLM inference workloads on infrastructure performance and global power consumption.\n2. Compare performance-per-watt across CPU-only vs GPU-accelerated systems and x86 vs Arm64 architectures.\n3. Apply concepts of open-source hypervisors, vGPU, GPU time slicing, and containers to optimize resource efficiency.\n4. Design hybrid infrastructure strategies that balance performance, cost, and sustainability for AI-era workloads.",
+        "location": "Venere",
+        "startTime": "2025-11-20T14:10:00",
+        "endTime": "2025-11-20T14:40:00"
+      },
+      {
+        "id": "V103",
+        "title": "Exploring VMware to CloudStack Migration",
+        "description": "This session offers a comprehensive business overview of migrating from VMware to CloudStack, examining impacts on services, cost management, and IT strategy to help organizations maximize their cloud investments.",
+        "location": "Venere",
+        "startTime": "2025-11-20T14:50:00",
+        "endTime": "2025-11-20T15:20:00"
+      },
+      {
+        "id": "V104",
+        "title": "Extensions Framework (XaaS) - Enabling Orchestrate Anything",
+        "description": "The Extensions Framework in Apache CloudStack enables seamless integration of external services (XaaS) into the CloudStack ecosystem. It allows operators to register and manage custom extensions, supporting a wide range of types such as orchestrators, network elements, and authenticators. This empowers users to tailor CloudStack’s behaviour to their infrastructure needs. CloudStack also ships with several inbuilt extensions, including Proxmox, Hyper-V, and Canonical MaaS, demonstrating the flexibility of the framework. For instance, a Proxmox extension can manage VM lifecycles through custom scripts, showcasing the power and adaptability of CloudStack’s extension model.",
+        "location": "Venere",
+        "startTime": "2025-11-20T15:30:00",
+        "endTime": "2025-11-20T16:00:00"
+      },
+      {
+        "id": "V105",
+        "title": "Bringing CloudStack to Life with LLMs",
+        "description": "Experience the power of AI-driven ChatOps tailored for Apache CloudStack. This modular Python-based chatbot, powered by OpenAI, enables users to ask natural language questions that translate into real-time MySQL queries, fetch logs from Elasticsearch, and deliver actionable insights, all through an intuitive web-based interface. With built-in memory, dynamic configuration, and intelligent log analysis, it redefines how Ops teams troubleshoot, monitor, and interact with cloud infrastructure. Join us to see how conversational AI can streamline your operations and accelerate problem resolution.",
+        "location": "Venere",
+        "startTime": "2025-11-20T16:10:00",
+        "endTime": "2025-11-20T16:40:00"
+      },
+      {
+        "id": "V106",
+        "title": "Back to the Origins of the Internet: Sovereignty as Strategic Survival",
+        "description": "The internet once promised decentralization. Today, a few large monoliths dominate the digital world. How did the vision of the Internet pioneers turn into a dangerous dependency? This presentation highlights how technical vendor lock-in, geopolitical risks, and the cultural imprint of AI models threaten the foundations of our digital sovereignty. We discuss how open-source technologies such as CloudStack can put power back in the hands of users to regain control over data and infrastructure. Learn why sovereignty is not just a philosophical concept, but a strategic necessity for the survival of every company.",
+        "location": "Venere",
+        "startTime": "2025-11-20T16:50:00",
+        "endTime": "2025-11-20T17:20:00"
+      },
+      {
+        "id": "M101",
+        "title": "Customizing CloudStack Network Topology with VNF Appliances",
+        "description": "The VNF appliance, introduced in Apache CloudStack 4.19, has been used by several CloudStack users as an alternative to the CloudStack Virtual Router. This talk will provide an overview of VNF appliances and showcase some real-world use cases. It will also introduce ongoing work on the VNF provider framework, which offers much better integration with VNF appliances. Topics will include technical details, the built-in VNF provider, and guidance on how to develop custom VNF providers.The VNF appliance, introduced in Apache CloudStack 4.19, has been used by several CloudStack users as an alternative to the CloudStack Virtual Router. This talk will provide an overview of VNF appliances and showcase some real-world use cases. It will also introduce ongoing work on the VNF provider framework, which offers much better integration with VNF appliances. Topics will include technical details, the built-in VNF provider, and guidance on how to develop custom VNF providers.",
+        "location": "Mercurio",
+        "startTime": "2025-11-20T13:30:00",
+        "endTime": "2025-11-20T14:00:00"
+      },
+      {
+        "id": "M102",
+        "title": "Cost Effective, Secure Repatriation with Ampere & CloudStack",
+        "description": "It’s established now that moving workloads off hyperscalers will reduce TCO, but you can offer more when dropping that onto Ampere CPU based systems through better efficiency and high utilisation. Pete Logan from Ampere describes how, using the joint architecture with CloudStack & ShapeBlue. Bonus; you can port your Graviton and other Arm workloads directly too!",
+        "location": "Mercurio",
+        "startTime": "2025-11-20T14:10:00",
+        "endTime": "2025-11-20T14:40:00"
+      },
+      {
+        "id": "M103",
+        "title": "LINSTOR/DRBD updates for CloudStackers",
+        "description": "In this session, Philipp will provide a concise introduction and overview of LINSTOR and DRBD, explaining how they offer highly available block storage to VMs in CloudStack clusters.\nFrom there, Philipp will present the recently introduced features and improvements of LINSTOR and DRBD, including a discussion of the rationale behind the changes and the next items on the project’s roadmap.\nOn the LINSTOR side, this includes: satellite restart time with thousands of resources, general scalability improvements in the range of 1,000 to 10,000 virtual volumes, and storing the master passphrase using systemd credentials (TPM chip), as well as multipathing of DRBD replication links.\nOn the DRBD side: resync without replication, higher bitmap granularity, performance optimizations, zero-copy receive, and more.\nOn the LINSTOR driver in CloudStack: thoughts on online migrating storage volume between primary storage.",
+        "location": "Mercurio",
+        "startTime": "2025-11-20T14:50:00",
+        "endTime": "2025-11-20T15:20:00"
+      },
+      {
+        "id": "M104",
+        "title": "Migrating 1000’s of VMs from VMware to CloudStack",
+        "description": "Migrating thousands of VMs from VMware to CloudStack enables companies and individuals to cut costs, escape vendor lock-in, and gain operational agility. With the right automation and phased approach, large-scale migrations can be achieved with minimal disruption. This session will explore some of the technical steps involved.",
+        "location": "Mercurio",
+        "startTime": "2025-11-20T15:30:00",
+        "endTime": "2025-11-20T16:00:00"
+      },
+      {
+        "id": "M105",
+        "title": "KVM Storage Performance: A Comparative Analysis of I/O Modes",
+        "description": "Building a high-performance, cost-effective cloud requires a deep understanding of the underlying storage infrastructure. The KVM virtualization stack offers a complex landscape of I/O technologies, from traditional iothread and aio modes to the newer, low-overhead io_uring. While these options promise different levels of performance and resource utilization, selecting the optimal configuration for a given workload can be a significant challenge for cloud builders and designers.\nThis presentation dives into a comprehensive benchmarking study designed to demystify these choices. Using industry-standard tools like FIO, pgbench, and rsync, we compare a range of KVM storage configurations across key metrics: latency, maximum IOPS, throughput, and CPU overhead. We will provide a data-driven comparison of different I/O modes—including io_uring and its predecessors—and explore how specific configurations impact performance for diverse workloads.\nJoin us to gain the practical knowledge needed to make informed design decisions for your cloud infrastructure. We will equip you with the insights to understand the trade-offs, identify performance bottlenecks, and build a KVM stack that delivers the best results for your specific needs.",
+        "location": "Mercurio",
+        "startTime": "2025-11-20T16:10:00",
+        "endTime": "2025-11-20T16:40:00"
+      },
+      {
+        "id": "M106",
+        "title": "Where's my Instance? How CloudStack finds a suitable deployment destination",
+        "description": "This session is a deep dive with examples and use cases on all deployment planners and allocation algorithms.",
+        "location": "Mercurio",
+        "startTime": "2025-11-20T16:50:00",
+        "endTime": "2025-11-20T17:20:00"
+      },
+      {
+        "id": "N101",
+        "title": "WORKSHOP: Migration Showcase: VMware to CloudStack in Action",
+        "description": "This session features a live migration of VM from VMware to CloudStack using CloudStack’s migration tool, walking through the process in real time.",
+        "location": "Nettuno",
+        "startTime": "2025-11-20T13:30:00",
+        "endTime": "2025-11-20T14:30:00"
+      },
+      {
+        "id": "N102",
+        "title": "WORKSHOP: Measuring Storage Performance: What to Measure and How",
+        "description": "Measuring storage performance is a critical skill for anyone managing modern IT infrastructure. Yet, with so many variables and tools, it’s easy to get lost or draw the wrong conclusions. This hands-on, one-hour workshop provides a practical, no-nonsense guide to storage performance benchmarking, designed for storage admins, cloud builders, and solution architects.\n\nIn this fast-paced session, you will learn the essential principles of storage performance measurement, including what key parameters to focus on and which common mistakes to avoid. We’ll dive into the most important metrics—IOPS, throughput, and latency—and show you how to read and interpret benchmark results to accurately assess system capabilities.\n\nThe core of this workshop is a practical, hands-on session where you’ll use the industry-standard tool, FIO (Flexible I/O Tester), in a provided virtual environment. You’ll walk away with the ability to:\nDesign effective benchmark tests for your specific workloads.\nExecute tests using industry-standard tools.\nAnalyze results to identify performance bottlenecks.\nMake data-driven decisions about your storage infrastructure.\nJoin us to understand storage performance and make informed choices about your systems. This is a great chance to get the skills you need to measure storage performance.\n\nPrerequisites: Participants should have a basic understanding of storage concepts and mid-level Linux administration skills. Please bring your own laptop.",
+        "location": "Nettuno",
+        "startTime": "2025-11-20T14:30:00",
+        "endTime": "2025-11-20T15:30:00"
+      },
+      {
+        "id": "N103",
+        "title": "WORKSHOP: Bridging CloudStack With MultiCloud",
+        "description": "As organizations increasingly adopt hybrid and multi-cloud strategies, CloudStack operators need practical approaches to extend their private cloud capabilities into public cloud environments.\n\nThis technical deep dive workshop demonstrates real-world integration patterns between CloudStack and major public cloud providers using Azure Arc and AWS IAM Roles Anywhere.\n\nAttendees will see live demonstrations of seamless workload deployment and resource management across CloudStack and public cloud platforms. The session provides actionable insights for building unified multi-cloud architectures that leverage CloudStack as the orchestration layer while extending capabilities into Azure and AWS environments.\nLearning Objectives\nBy the end of this session, participants will be able to:\n1. Implement Azure Arc integration with CloudStack: Learn how to register CloudStack VMs with Azure Arc, enabling centralized management, policy enforcement, and monitoring across hybrid environments.\n2. Configure AWS IAM Roles Anywhere for CloudStack workloads: Understand how to establish secure, temporary credential access for CloudStack VMs to AWS services without long-term access keys or VPN connections.\n3. Design multi-cloud orchestration patterns: Explore architectural approaches for workload distribution, data synchronization, and service integration across CloudStack and public cloud platforms.",
+        "location": "Nettuno",
+        "startTime": "2025-11-20T15:30:00",
+        "endTime": "2025-11-20T16:30:00"
       }
     ]
   }
