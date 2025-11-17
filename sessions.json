@@ -168,6 +168,30 @@
         "location": "Nettuno",
         "startTime": "2025-11-20T15:30:00",
         "endTime": "2025-11-20T16:30:00"
+      },
+      {
+        "id": "T101",
+        "title": "Test Past",
+        "description": "Test Past",
+        "location": "Main Hall",
+        "startTime": "2025-11-17T09:00:00",
+        "endTime": "2025-11-19T09:30:00"
+      },
+      {
+        "id": "T102",
+        "title": "Test Current",
+        "description": "Test Current",
+        "location": "Main Hall",
+        "startTime": "2025-11-17T12:00:00",
+        "endTime": "2025-11-19T13:00:00"
+      },
+      {
+        "id": "T103",
+        "title": "Test Upcoming",
+        "description": "Test Upcoming",
+        "location": "Main Hall",
+        "startTime": "2025-11-17T13:00:00",
+        "endTime": "2025-11-19T13:30:00"
       }
     ]
   }
