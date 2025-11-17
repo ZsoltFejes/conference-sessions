@@ -1,0 +1,45 @@
+{
+    "sessions": [
+      {
+        "id": "S101",
+        "title": "Opening Keynote: The Future of Distributed Systems",
+        "description": "An overview of current trends in distributed systems, including edge computing, serverless architectures and observability.",
+        "location": "Main Hall A",
+        "startTime": "2025-09-10T09:00:00",
+        "endTime": "2025-09-10T10:00:00"
+      },
+      {
+        "id": "S102",
+        "title": "Practical Kubernetes for Platform Engineers",
+        "description": "Deep dive into building internal platforms on top of Kubernetes, including multi-tenant clusters, security boundaries and GitOps workflows.",
+        "location": "Room 2B",
+        "startTime": "2025-09-10T10:15:00",
+        "endTime": "2025-09-10T11:00:00"
+      },
+      {
+        "id": "S103",
+        "title": "Observability Patterns: Traces, Metrics and Logs",
+        "description": "How to design an observability strategy that scales with your organisation, with real-world examples and patterns.",
+        "location": "Room 3C",
+        "startTime": "2025-09-10T11:15:00",
+        "endTime": "2025-09-10T12:00:00"
+      },
+      {
+        "id": "S201",
+        "title": "Building Resilient APIs",
+        "description": "Techniques and patterns for creating APIs that can gracefully handle failure, spikes and dependency outages.",
+        "location": "Room 4D",
+        "startTime": "2025-09-11T09:30:00",
+        "endTime": "2025-09-11T10:15:00"
+      },
+      {
+        "id": "S202",
+        "title": "Async Messaging with Kafka and Beyond",
+        "description": "When and how to use Kafka and other messaging technologies to decouple services and handle high-throughput events.",
+        "location": "Room 5E",
+        "startTime": "2025-09-11T10:30:00",
+        "endTime": "2025-09-11T11:15:00"
+      }
+    ]
+  }
+  
