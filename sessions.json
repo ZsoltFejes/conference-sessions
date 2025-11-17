@@ -1,45 +1,44 @@
 {
     "sessions": [
       {
+        "id": "H101",
+        "title": "Hackathon",
+        "description": "Join us for the CloudStack Collaboration Conference Hackathon on Day 1, where innovation, creativity, and collaboration come together! This event invites developers, cloud architects, system admins, and open-source enthusiasts to team up and solve real-world challenges in the cloud ecosystem using Apache CloudStack. Whether you’re a seasoned pro or new to the cloud community, this hackathon is your opportunity to dive into cutting-edge technologies, exchange ideas with fellow contributors, and push the boundaries of cloud computing.",
+        "location": "Main Hall",
+        "startTime": "2025-11-19T12:00:00",
+        "endTime": "2025-11-19T18:00:00"
+      },
+      {
         "id": "S101",
-        "title": "Opening Keynote: The Future of Distributed Systems",
-        "description": "An overview of current trends in distributed systems, including edge computing, serverless architectures and observability.",
-        "location": "Main Hall A",
-        "startTime": "2025-09-10T09:00:00",
-        "endTime": "2025-09-10T10:00:00"
+        "title": "Registration and Morning Coffee",
+        "description": "Registration and Morning Coffee",
+        "location": "Main Hall",
+        "startTime": "2025-11-20T09:00:00",
+        "endTime": "2025-11-20T09:30:00"
       },
       {
         "id": "S102",
-        "title": "Practical Kubernetes for Platform Engineers",
-        "description": "Deep dive into building internal platforms on top of Kubernetes, including multi-tenant clusters, security boundaries and GitOps workflows.",
-        "location": "Room 2B",
-        "startTime": "2025-09-10T10:15:00",
-        "endTime": "2025-09-10T11:00:00"
+        "title": "Welcome to the CloudStack Collaboration Conference 2025",
+        "description": "In this session, CloudStack PMC Member, Ivet Petrova will open the CloudStack Collaboration Conference 2025!",
+        "location": "Main Hall",
+        "startTime": "2025-11-20T09:30:00",
+        "endTime": "2025-11-20T09:55:00"
       },
       {
         "id": "S103",
-        "title": "Observability Patterns: Traces, Metrics and Logs",
-        "description": "How to design an observability strategy that scales with your organisation, with real-world examples and patterns.",
-        "location": "Room 3C",
-        "startTime": "2025-09-10T11:15:00",
-        "endTime": "2025-09-10T12:00:00"
+        "title": "Keynote: From Vision to Impact: Making a Difference with CloudStack",
+        "description": "At last year’s CloudStack Collaboration Conference, US Signal shared why we chose Apache CloudStack as the foundation for our OpenCloud platform and our vision for what it could become. One year later, that vision has translated into tremendous growth, customer adoption, and innovation. In this keynote, US Signal’s COO, John White will reflect on the first year of building and scaling OpenCloud with CloudStack, the game-changing factors that made the difference, and the lessons learned along the way. Looking ahead, he will also share insights into the evolving open-source landscape, why CloudStack is well-positioned to lead in an evolving landscape, and how the broader community can continue to drive the next chapter of Open Cloud.",
+        "location": "Main Hall",
+        "startTime": "2025-11-20T09:55:00",
+        "endTime": "2025-09-11T10:35:00"
       },
       {
-        "id": "S201",
-        "title": "Building Resilient APIs",
-        "description": "Techniques and patterns for creating APIs that can gracefully handle failure, spikes and dependency outages.",
-        "location": "Room 4D",
-        "startTime": "2025-09-11T09:30:00",
-        "endTime": "2025-09-11T10:15:00"
-      },
-      {
-        "id": "S202",
-        "title": "Async Messaging with Kafka and Beyond",
-        "description": "When and how to use Kafka and other messaging technologies to decouple services and handle high-throughput events.",
-        "location": "Room 5E",
-        "startTime": "2025-09-11T10:30:00",
-        "endTime": "2025-09-11T11:15:00"
+        "id": "S104",
+        "title": "Keynote: Working with CloudStack for over 10 years",
+        "description": "Wido den Holander has been working with CloudStack since 2011, back when it was still known as cloud.com and had just been acquired by Citrix. Two years later, in 2013, the project found its new home at the Apache Software Foundation (ASF). Over the past decade, CloudStack has been a innovative project and proving itself as a reliable foundation for our business. In this keynote, we’ll reflect on that journey, share key milestones, and highlight how CloudStack has remained a stable pillar of our infrastructure for more than 10 years.",
+        "location": "Main Hall",
+        "startTime": "2025-11-20T10:50:00",
+        "endTime": "2025-11-20T11:30:00"
       }
     ]
   }
-  
